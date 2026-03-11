@@ -26,7 +26,7 @@ section h2 {
   margin: 0 auto;
 }
 
-/*header*/
+/*--------------------header--------------------*/
 
 header {
   max-width: 960px;
@@ -62,7 +62,7 @@ nav li {
   list-style: none;
 }
 
-/*mainvisual*/
+/*--------------------mainvisual--------------------*/
 
 .main_visual img {
   width: 100%;
@@ -72,7 +72,7 @@ nav li {
   margin-bottom: 70px;
 }
 
-/*about*/
+/*--------------------about--------------------*/
 
 .about_box {
   font-size: 0.9em;
@@ -88,7 +88,7 @@ nav li {
   margin-bottom: 30px;
 }
 
-/*works*/
+/*--------------------works--------------------*/
 
 .works_box {
   max-width: 960px;
@@ -107,7 +107,7 @@ nav li {
   width: 31%;
 }
 
-/*news*/
+/*--------------------news--------------------*/
 
 .news_box {
   padding: 0 4%;
@@ -134,7 +134,7 @@ nav li {
   width: 85%;
 }
 
-/*contact*/
+/*--------------------contact--------------------*/
 
 .contact_box {
   padding: 0 4%;
@@ -183,7 +183,7 @@ table {
   margin-bottom: 100px;
 }
 
-/*footer*/
+/*--------------------footer--------------------*/
 
 footer {
   text-align: center;
@@ -193,7 +193,7 @@ footer {
   padding: 2px;
 }
 
-/*レスポンシブ*/
+/*--------------------レスポンシブ--------------------*/
 
 @media(min-width: 768px) {
   a[href^="tel:000-0000-0000"]{
